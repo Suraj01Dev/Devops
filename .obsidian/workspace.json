@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "dae78d1fc2914fa1",
+        "id": "48a882742c712353",
         "type": "tabs",
         "children": [
           {
-            "id": "ca86af388966f34f",
+            "id": "2897f21a75a135f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/String Manipulation/AWK/Tutorial 2.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/String Manipulation/AWK/Tutorial 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/String Manipulation/AWK/Tutorial 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/String Manipulation/AWK/Tutorial 2.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +147,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "65cfca9ae6cb6e33",
+  "active": "2897f21a75a135f8",
   "lastOpenFiles": [
+    "Kubernetes/CKAD/Kubernetes/Pods/Creating PODS.md",
+    "Linux/String Manipulation/helper/sample3.csv",
+    "Linux/String Manipulation/helper/sample2.csv",
+    "Linux/String Manipulation/helper/sample.csv",
+    "Linux/String Manipulation/helper/multi_del.txt",
+    "Linux/String Manipulation/helper",
+    "Linux/String Manipulation/awk_revision.ipynb",
+    "Linux/String Manipulation/AWK.md",
+    "Linux/String Manipulation/AWK/Untitled.md",
+    "Kubernetes/CKAD/Kubernetes/Kube Config/2. Related Commands.md",
+    "Kubernetes/CKAD/Kubernetes/Kube Config/1. Kubeconfig Components.md",
+    "README.md",
+    "Docker/Dockerfiles/Python Dockerfile Best Practices.md",
+    "GitHub/Git Commands.md",
+    "Linux/String Manipulation/AWK/Tutorial 2.md",
     "Linux/String Manipulation/AWK/AWK Tutorial.md"
   ]
 }
