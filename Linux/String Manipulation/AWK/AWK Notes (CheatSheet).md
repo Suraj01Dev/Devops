@@ -82,23 +82,23 @@ Examples:
 	```
 
 4. Searching for a character in a specific column.
-```bash
-awk '$1 ~ /A/ {print $0}' samples.txt
-```
+	```bash
+	awk '$1 ~ /A/ {print $0}' samples.txt
+	```
 
 
 #### AWK with delimiters.
 
 Using awk with a csv file with `comma` as a delimiter.
-```bash
-awk -F, '{print $0}' samples.txt
-```
+	```bash
+	awk -F, '{print $0}' samples.txt
+	```
 
 
 Using awk with multiple delimiters.
-```bash
-awk -F[,:] '{print $0}' samples.txt
-```
+	```bash
+	awk -F[,:] '{print $0}' samples.txt
+	```
 
 #### Essential AWK Functions
 - ##### length()
@@ -108,14 +108,14 @@ awk -F[,:] '{print $0}' samples.txt
 ##### Examples with length() function
 
 1. Print the length of each row in the dataset.
-```bash
-awk '{print length($0)}' samples.txt
-```
+	```bash
+	awk '{print length($0)}' samples.txt
+	```
 
-2. Print the length of row which has max length.
-```bash
-awk 'BEGIN{max=0} {if(length($0)>max) {max=length($0); max_line=NR}} END{print max_line}' sample.txt
-```
+1. Print the length of row which has max length.
+	```bash
+	awk 'BEGIN{max=0} {if(length($0)>max) {max=length($0); max_line=NR}} END{print max_line}' sample.txt
+	```
 
 ##### Example with gsub() function
 ```bash
