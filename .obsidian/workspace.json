@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/String Manipulation/AWK/AWK Notes (CheatSheet).md",
+                "file": "Linux/Bash/String Manipulation/Regex/Regex Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/String Manipulation/AWK/AWK Notes (CheatSheet).md",
+                "file": "Linux/Bash/String Manipulation/Regex/Regex Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/String Manipulation/AWK/AWK Notes (CheatSheet).md",
+                "file": "Linux/Bash/String Manipulation/Regex/Regex Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/String Manipulation/AWK/AWK Notes (CheatSheet).md"
+                "file": "Linux/Bash/String Manipulation/Regex/Regex Notes.md"
               }
             }
           },
@@ -158,18 +158,21 @@
   },
   "active": "2897f21a75a135f8",
   "lastOpenFiles": [
-    "Linux/String Manipulation/AWK/AWK Notes (CheatSheet).md",
-    "Linux/String Manipulation/AWK/helper/sample3.csv",
-    "Linux/String Manipulation/AWK/helper/sample2.csv",
-    "Linux/String Manipulation/AWK/helper/sample.csv",
-    "Linux/String Manipulation/AWK/helper/multi_del.txt",
-    "Linux/String Manipulation/AWK/helper",
-    "Linux/String Manipulation/AWK/awk_revision.ipynb",
-    "Linux/String Manipulation/AWK",
+    "Linux/Bash/String Manipulation/AWK/AWK Notes (CheatSheet).md",
+    "Linux/Bash/String Manipulation/Regex/Regex Notes.md",
+    "Kubernetes/CKAD/Kubernetes/ReplicaSet/Creating ReplicaSets.md",
+    "Linux/Bash/String Manipulation/Regex",
+    "Linux/Bash",
+    "Kubernetes/CKAD/Kubernetes/ReplicaSet/Untitled.md",
     "Kubernetes/CKAD/Kubernetes/Pods/Creating PODS.md",
-    "Linux/String Manipulation/helper/sample3.csv",
-    "Linux/String Manipulation/helper/sample2.csv",
-    "Linux/String Manipulation/helper/sample.csv",
+    "Kubernetes/CKAD/Kubernetes/ReplicaSet",
+    "Linux/Bash/String Manipulation/AWK/helper/sample3.csv",
+    "Linux/Bash/String Manipulation/AWK/helper/sample2.csv",
+    "Linux/Bash/String Manipulation/AWK/helper/sample.csv",
+    "Linux/Bash/String Manipulation/AWK/helper/multi_del.txt",
+    "Linux/Bash/String Manipulation/AWK/helper",
+    "Linux/Bash/String Manipulation/AWK/awk_revision.ipynb",
+    "Linux/Bash/String Manipulation/AWK",
     "Linux/String Manipulation/AWK.md",
     "Kubernetes/CKAD/Kubernetes/Kube Config/2. Related Commands.md",
     "Kubernetes/CKAD/Kubernetes/Kube Config/1. Kubeconfig Components.md",
